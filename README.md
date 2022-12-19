@@ -1,5 +1,5 @@
 Aselamu alekum.
-I am Ahmed Nur I wish you are good.
+I am Ahmed Nur I am frontend developer Student.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iamgithublover252&theme=dark&show_icons=true)
 
 Survey challenge links are here:
